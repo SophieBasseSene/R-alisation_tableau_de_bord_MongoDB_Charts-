@@ -24,6 +24,7 @@ Le dataset, téléchargé depuis Kaggle, contient des informations globales sur 
 
 ### Résultat
 
+
 <img width="805" alt="Capture d’écran 2024-07-06 225417" src="https://github.com/user-attachments/assets/d39242a4-994a-470d-a6db-c19660c7b047">
 <img width="755" alt="Capture d’écran 2024-07-06 225458" src="https://github.com/user-attachments/assets/f0d3ba02-5b91-4eda-931b-c3b33bb75eae">
 
